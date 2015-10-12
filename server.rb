@@ -1,10 +1,10 @@
 require 'sinatra'
 
-get '/' do
-	"Hello World!"
-end
+# get '/' do
+# 	"Hello World!"
+# end
 
-get '/sinatra' do
-	"Hello World Again!"
-end
+# get '/sinatra' do
+# 	"Hello World Again!"
+# end
 
