@@ -1,8 +1,8 @@
 require 'sinatra'
 
-# get '/' do
-# 	"Hello World!"
-# end
+get '/' do
+	open('main.html').read
+end
 
 # get '/sinatra' do
 # 	"Hello World Again!"
