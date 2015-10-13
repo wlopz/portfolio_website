@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get '/' do
-	open('main.html').read
+	File.read('public/main.html')
 end
 
 # get '/sinatra' do
