@@ -209,8 +209,8 @@ nav ul li a:hover, nav ul li a:focus { text-decoration: none; color: #353535; }
 .pull { display: block; }
 .indicator { display: none;}
 .nav_logo {position: absolute; z-index: 1000}
-.nav_logo_image { background: url('../img/wl_logo-white.png') no-repeat center center; background-size: 90px; background-repeat: no-repeat; height: 71px; width: 71px; }
-.nav_logo_image:hover { background: url('../img/wl_aqua.png') no-repeat center center; background-size: 121px; background-repeat: no-repeat; height: 71px; width: 90px; }
+.nav_logo_image { background: url('../img/wl_logo-white.png') no-repeat center center; background-size: 70px; background-repeat: no-repeat; height: 71px; width: 71px; }
+.nav_logo_image:hover { background: url('../img/wl_aqua.png') no-repeat center center; background-size: 101px; background-repeat: no-repeat; height: 71px; width: 90px; }
 /* ==========================================================================
 Space
 ========================================================================== */
